@@ -1,3 +1,11 @@
 theme: jekyll-theme-minimal
-title: Sujin Han - KAIST
-description: Graduate Student at KAIST
+title: Sujin Han
+logo: "/images/sujin_han.jpg?raw=true" # your photo (or logo) here
+description: > # your text below (remove <br> elements if you don't need line breaks)
+  Masters Student at KAIST
+  <br>
+  Email: sujinhan@kaist.ac.kr
+  Research Interests: Mobile Systems, Mobile Computing
+  <br>
+  
+theme: jekyll-theme-minimal
