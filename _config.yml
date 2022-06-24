@@ -1,11 +1,13 @@
 theme: jekyll-theme-minimal
 title: Sujin Han
-logo: "/images/sujin_han.jpg?raw=true" # your photo (or logo) here
-description: > # your text below (remove <br> elements if you don't need line breaks)
-  Masters Student at KAIST
+# logo: "/images/sujin_han.jpg"
+description: >
+  <img src="/images/sujin_han.jpg" alt="Sujin Han" style="width:70%;height:auto;">
   <br>
-  Email: sujinhan@kaist.ac.kr
-  Research Interests: Mobile Systems, Mobile Computing
+  <b>Email:</b> sujinhan@kaist.ac.kr
   <br>
+  <b>Research Interests:</b><br>
+  - Mobile Systems<br>
+  - Mobile Computing<br>
   
 theme: jekyll-theme-minimal
