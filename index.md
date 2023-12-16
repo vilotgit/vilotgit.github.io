@@ -5,7 +5,7 @@ Currently, I am interested in designing and building practical solutions for rea
 
 I received my Bacheler's degree from KAIST in 2022, majoring in Computing Sciences and minoring in Intellectual Property.
 
-[Curriculum Vitae (updated 2023/12/12)](/files/SujinHan_CV_231212.pdf)
+[Curriculum Vitae (updated 2023/12/16)](/files/SujinHan_CV_231216.pdf)
 
 ## Recent News
 
