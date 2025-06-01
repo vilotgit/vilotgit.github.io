@@ -1,13 +1,26 @@
-theme: jekyll-theme-minimal
+# Site Settings
+locale: "en-US"
 title: Sujin Han
-# logo: "/images/sujin_han.jpg"
+title_separator: "-"
+name: "Sujin Han"
 description: >
   <img src="/images/sujin_han.jpg" alt="Sujin Han" style="width:70%;height:auto;">
   <br>
   <b>Email:</b> sujinhan@kaist.ac.kr
   <br>
-  <b>Research Interests:</b><br>
-  - Mobile Systems<br>
-  - Software Security<br>
-  
-theme: jekyll-theme-minimal
+  <a href="https://scholar.google.com/citations?user=yYXNUhIAAAAJ&hl=en&oi=ao">Google Scholar</a>
+  <br>
+  <a href="https://www.linkedin.com/in/sujin-han-a2043711a/">LinkedIn</a>
+  <br>
+  <a href="/files/SujinHan_CV_2025_June.pdf">Curriculum Vitae (updated 2025/06/01)</a>
+
+# Site Author
+author:
+  name: "Sujin Han"
+  avatar: "/images/sujin_han.jpg"
+  bio: # Add a brief bio here
+  location: # Add your location
+  employer: # Add your employer
+  email: sujinhan@kaist.ac.kr
+  googlescholar: "https://scholar.google.com/citations?user=yYXNUhIAAAAJ"
+  linkedin: "sujin-han-a2043711a"
