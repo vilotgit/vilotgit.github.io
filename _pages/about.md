@@ -38,9 +38,9 @@ Advised by: Dr. Sung-Ju Lee
 
 *C=Conference, W=Workshop, P=Preprint*
 
-**[C.2]** [Automated Attack Synthesis for Constant Product Market Makers](https://arxiv.org/abs/2404.05297)  
+**[C.2]** [Automated Attack Synthesis for Constant Product Market Makers](https://dl.acm.org/doi/10.1145/3728872)  
 <u>Sujin Han</u>, Jinseo Kim, Sung-Ju Lee, Insu Yun  
-International Symposium on Software Testing and Analysis (ISSTA) 2025 (to appear)
+International Symposium on Software Testing and Analysis (ISSTA) 2025
 
 **[W.1]** [SecuWear: Secure Data Sharing Between Wearable Devices](https://www.ndss-symposium.org/wp-content/uploads/sdiotsec25-82.pdf)  
 <u>Sujin Han</u>, Diana A. Vasile, Fahim Kawsar, Chulhong Min  
