@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in [Hacking Lab](https://kaist-hacking.github.io/) at KAIST, advised by Prof. [Insu Yun](https://insuyun.github.io/). Previously, I was at [Networking and Mobile Systems Lab](https://nmsl.kaist.ac.kr/), led by Prof. [Sung-Ju Lee](https://sites.google.com/site/wewantsj/). I am interested in designing and building practical solutions for real-world software security problems. Currently, I am working on automatic exploit generation for vulnerable smart contracts. Previously, I worked on projects that delve deeply into the Android OS, such as content moderation for the Youtube Android app and micro-virtualization to recover Android apps from compatibility crashes.
+I am a PhD student in [Hacking Lab](https://kaist-hacking.github.io/) at KAIST, advised by Prof. [Insu Yun](https://insuyun.github.io/). Previously, I was at [Networking and Mobile Systems Lab](https://nmsl.kaist.ac.kr/), led by Prof. [Sung-Ju Lee](https://sites.google.com/site/wewantsj/). I am interested in designing and building practical solutions for real-world software security problems. Currently, I am working on discovering potential privacy violations in the Android ecosystem. Previously, I worked on projects that delve deeply into the Android OS, such as content moderation for the Youtube Android app and micro-virtualization to recover Android apps from compatibility crashes. I also worked on automatic exploit generation for vulnerable smart contracts.
 
-[Curriculum Vitae (updated 2025/06/01)](/files/SujinHan_CV_2025_June.pdf)
+[Curriculum Vitae (updated 2025/10/29)](/files/SujinHan_CV_2025_Oct.pdf)
 
 ## Education
 
@@ -24,7 +24,7 @@ Advisor: Insu Yun
 
 **Hacking Lab** \\
 *Graduate Student Researcher* | Sept 2024 - Present  
-Advised by: Dr. Insu Yun
+Advised by: Prof. Insu Yun
 
 **Nokia Bell Labs Cambridge** \\
 *Research Intern* | June 2024 - Aug 2024  
@@ -32,7 +32,7 @@ Advised by: Dr. Diana Vasile, Dr. Chulhong Min
 
 **Networking and Mobile Systems Laboratory** | Daejeon, Korea  
 *Undergraduate Student Researcher, Graduate Student Researcher* | June 2020 - May 2024  
-Advised by: Dr. Sung-Ju Lee
+Advised by: Prof. Sung-Ju Lee
 
 ## Publications
 
